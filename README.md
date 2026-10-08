@@ -46,11 +46,7 @@ sudo python3 sniffer.py -i eth0 -c 50 -w capture.pcap  # pick interface, save pc
 
 This is QUIC (HTTP/3) traffic on UDP port 443. The payload looks random because QUIC is encrypted, so the packet's metadata is visible but its content is not.
 
-## Screenshots
 
-Add your screenshots here:
-
-![sniffer output](screenshots/output.png)
 
 ## What I learned
 
